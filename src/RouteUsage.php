@@ -3,7 +3,7 @@
 namespace Julienbourdeau\RouteUsage;
 
 // use Illuminate\Database\Eloquent\Model;
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 
 class RouteUsage extends Model
 {
