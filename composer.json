@@ -17,7 +17,8 @@
     ],
     "require": {
         "php": ">= 7.1",
-        "laravel/framework": ">= 5.8"
+        "laravel/framework": ">= 5.8",
+         "mongodb/laravel-mongodb": "*"
     },
     "require-dev": {
         "orchestra/testbench": "3.8.*",
